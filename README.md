@@ -1,5 +1,5 @@
 # StepCounter-RPG
-[![image](https://user-images.githubusercontent.com/45181211/147009007-6e080f02-b978-4c34-a5d0-485eaf541842.png)](https://www.youtube.com/watch?v=dOTSfcHANtA)
+[![image](https://user-images.githubusercontent.com/45181211/147012740-a5b9824c-f115-4367-ab6e-356362a14a9d.png)](https://www.youtube.com/watch?v=dOTSfcHANtA)
 
 A project for CS5520 Mobile App Development
 
