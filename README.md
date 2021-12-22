@@ -27,3 +27,6 @@ The purpose of this app is to demonstrate our understanding of basic Android dev
 2) Open this repository in Android Studio.
 3) Make sure you have an Android Studio emulator with API 26-29 up and running. 
 4) Click the green "play" button to run this app on your emulator. 
+
+## Credits
+Thanks to my partner YiChang Liu for being awesome!
