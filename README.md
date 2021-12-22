@@ -29,4 +29,10 @@ The purpose of this app is to demonstrate our understanding of basic Android dev
 4) Click the green "play" button to run this app on your emulator. 
 
 ## Credits
-Thanks to my partner YiChang Liu for being awesome!
+All credits to:
+
+https://www.youtube.com/watch?v=kIudIii4uLU
+
+My partner YiChang Liu for being awesome!
+
+And countless stackoverflow answers
