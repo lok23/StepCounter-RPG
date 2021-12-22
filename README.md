@@ -6,7 +6,7 @@ A project for CS5520 Mobile App Development
 # What is this?
 StepCounter-RPG is a 2-in-1 application that combines the functionality of a traditional step-counter fitness app with the ability to spend those hard earned steps on upgrades for your in-game character. Much like traditional fitness apps, steps are tracked and graphed over a daily or weekly period of time. These graphs contain information such as how many steps you walked an hour, calories burned, distance walked etc. The gameplay element consists of spending your step-coins on buying food, buying entertainment, working jobs, or getting a degree for your in-game character. 
 
-Here's a look at some of the app's functionalities: 
+Here's a look at some of the app's screens.
 
 ## Home Screen
 ![1](https://user-images.githubusercontent.com/45181211/147031599-562ef99b-2528-40d4-bfee-6085b17e2b22.PNG)
@@ -23,4 +23,7 @@ The purpose of this app is to demonstrate our understanding of basic Android dev
 ## How to Run
 (These steps will download the app on an Android Studio emulator)
 
-First, make sure you have an emulator with API 26-29 up and running. Second, clone this repository. Third, open this repository in Android Studio, then click the green "play" button to run this app on your emulator. 
+1) Clone this repository. 
+2) Open this repository in Android Studio.
+3) Make sure you have an Android Studio emulator with API 26-29 up and running. 
+4) Click the green "play" button to run this app on your emulator. 
